@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": "L-104",
+    "name": "Aarav Mehta",
+    "company": "Northstar Labs",
+    "email": "aarav@northstarlabs.example",
+    "industry": "Software",
+    "company_size": 45,
+    "budget_inr": 120000,
+    "status": "new",
+    "source": "Website",
+    "notes": "Interested in automating sales follow-ups"
+  },
+  {
+    "id": "L-105",
+    "name": "Meera Sharma",
+    "company": "Greenfield Foods",
+    "email": "meera@greenfieldfoods.example",
+    "industry": "Food distribution",
+    "company_size": 18,
+    "budget_inr": null,
+    "status": "new",
+    "source": "Referral",
+    "notes": "Interested in learning about workflow automation"
+  }
+]
